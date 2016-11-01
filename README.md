@@ -2,7 +2,9 @@
 
 In short, we've taken Particle's Photon to control a home's radon system based on external environmental data such as temperature.
 
-What is Radon?
+Watch on YouTube: https://www.youtube.com/watch?v=rYFEdOL03ME
+
+# What is Radon?
 
 > Radon is a chemical element with symbol Rn and atomic number 86. It is a radioactive, colorless, odorless, tasteless[2] noble gas, occurring naturally as a decay product of radium. Its most stable isotope, 222Rn, has a half-life of 3.8 days. Radon is one of the densest substances that remains a gas under normal conditions. It is also the only gas under normal conditions that has no stable isotopes, and is considered a health hazard due to its radioactivity. Intense radioactivity has also hindered chemical studies of radon and only a few compounds are known.
 
